@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Скада2 teams",
+    "email": "bezrukov@mir-omsk.ru"
+  },
+  "contributors": [
+    {
+      "name": "Мирная команда"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Учебный пакет",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "http://mir-omsk.ru",
+  "license": "NPO MIR",
+  "main": "index",
+  "name": "mir-npo",
+  "version": "3.8.5"
+}
